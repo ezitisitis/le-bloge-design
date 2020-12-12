@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Twitch/Default</title>
+    <g id="Icons/Twitch/Default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.571,4.714 L13.286,4.714 L13.286,9.857 L11.57,9.857 L11.571,4.714 Z M16.286,4.714 L18,4.714 L18,9.857 L16.286,9.857 L16.286,4.714 Z M6,0 L1.714,4.286 L1.714,19.714 L6.857,19.714 L6.857,24 L11.143,19.714 L14.571,19.714 L22.286,12 L22.286,0 L6,0 Z M20.571,11.143 L17.143,14.571 L13.714,14.571 L10.714,17.571 L10.714,14.571 L6.857,14.571 L6.857,1.714 L20.571,1.714 L20.571,11.143 Z" id="Shape" fill="#3C3744" fill-rule="nonzero"></path>
+    </g>
+</svg>
